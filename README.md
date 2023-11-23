@@ -1,3 +1,2 @@
 # cla-test
-
-sign 1
+Contribution
